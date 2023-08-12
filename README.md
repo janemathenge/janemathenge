@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on creating productive websitise...
 - 📫 How to reach me janewaguthi61@gmail.com...
 
-## Talk with me am kinda awesome
+## Talks
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
